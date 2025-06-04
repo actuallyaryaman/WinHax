@@ -2,6 +2,9 @@
 My go to windows tips and tricks.
 
 ---
+## Adoptium JDK
+
+https://adoptium.net/
 
 ## Windows Registry Commands
 
